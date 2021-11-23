@@ -1,5 +1,4 @@
-### Hi there 👋 polina dura
-
+### Hi there 👋 polina
 <!--hfuy
 **PolinaKatya/PolinaKatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
